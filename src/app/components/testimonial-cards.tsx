@@ -23,7 +23,7 @@ export default function TestimonialCards({}: Props) {
           <CardContent>
             <p>
               “A Developer with the creativity, professional and master of code.
-              Much more than what i'm expect. High quality product & flexiable
+              Much more than what I&apos;m expect. High quality product & flexiable
               price. Recommended!.”
             </p>
           </CardContent>
